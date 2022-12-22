@@ -1,0 +1,11 @@
+from E01_01 import load_data
+lines = load_data()
+### YOUR CODE STARTS HERE
+
+### YOUR CODE ENDS HERE
+
+"""
+### YOUR EXPLANATION STARTS HERE
+
+### YOUR EXPLANATION ENDS HERE
+"""
